@@ -1,0 +1,15 @@
+{
+  "name": "com.moodylib.scenehighlighter",
+  "version": "1.0.0",
+  "displayName": "Scene Highlighter",
+  "description": "A full-screen overlay that darkens the screen and cuts soft-edged oval highlights over specific scene or UI targets.",
+  "license": "MIT",
+  "author": {
+    "name": "Federico Polí",
+    "url": "https://github.com/fapoli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fapoli/MoodyLib.SceneHighlighter.git"
+  }
+}
