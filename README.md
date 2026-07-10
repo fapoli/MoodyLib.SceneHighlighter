@@ -7,7 +7,7 @@ A full-screen overlay that darkens the screen and cuts soft-edged oval highlight
 
 Render pipeline agnostic: the shader renders through uGUI's `CanvasRenderer`, a rendering path separate from the SRP graphics pipeline, so both the shader and the provided `HighlighterMaterial` work unmodified under Built-in, URP, or HDRP — no per-pipeline variants needed.
 
-![A card highlighted with a feathered oval hole during a tutorial step](Documentation~/highlight-example.png)
+![A card highlighted with a feathered oval hole during a tutorial step](Documentation~/highlight-example.jpg)
 
 Everything lives under the `MoodyLib.SceneHighlighter` namespace.
 
